@@ -1,0 +1,10 @@
+<svg data-token-name="CircleforToggle" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.95483C7.00361 2.95483 2.95471 7.00486 2.95471 12.0001C2.95471 16.9954 7.00361 21.0454 12 21.0454C16.9953 21.0454 21.0453 16.9954 21.0453 12.0001C21.0453 7.00486 16.9953 2.95483 12 2.95483Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 17.0525C9.20912 17.0525 6.94751 14.7902 6.94751 12C6.94751 9.20977 9.20912 6.94753 12 6.94753C14.7902 6.94753 17.0524 9.20977 17.0524 12C17.0524 14.7902 14.7902 17.0525 12 17.0525Z" fill="url(#paint0_linear)"/>
+<defs>
+<linearGradient id="paint0_linear" x1="17.0524" y1="17.0525" x2="17.0524" y2="6.94753" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#DFE4EB"/>
+</linearGradient>
+</defs>
+</svg>

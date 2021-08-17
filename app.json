@@ -1,0 +1,30 @@
+{
+	"expo": {
+		"name": "jv-mobile-storybook",
+		"version": "0.0.1",
+		"orientation": "portrait",
+		"entryPoint": "node_modules/expo/AppEntry.js",
+		"icon": "./assets/ic_launcher-playstore.png",
+		"splash": {
+			"image": "./assets/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true
+		},
+		"android": {
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/ic_launcher-playstore.png",
+				"backgroundColor": "#FFFFFF"
+			}
+		},
+		"web": {
+			"favicon": "./assets/ic_launcher-playstore.png"
+		}
+	}
+}

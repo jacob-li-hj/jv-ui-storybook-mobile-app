@@ -1,0 +1,9 @@
+dist
+.expo
+.expo-shared
+
+node_modules
+
+scripts
+
+storyLoader.ts
